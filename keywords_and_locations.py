@@ -22,7 +22,7 @@ Moscow = [55.7558, 37.6173] #switch lat and long
 SanFrancisco = [-122.75,36.8, -121.75,37.8]
 NYC = [-73.935242,40.730610]
 box_size = 20
-keywords = ['Trump']
+keywords = ['Russia']
 
 
 auth = OAuthHandler(consumer_key, consumer_secret)
